@@ -6,7 +6,7 @@
 
 @font-face {
       font-family: 'outfit';
-      src: url('/assets/fonts/outfit/Outfit-VariableFont_wght.ttf');
+      src: url('assets/fonts/outfit/Outfit-VariableFont_wght.ttf');
 }
 
 @font-face {
@@ -26,7 +26,7 @@ h1, h2 {
 }
 
 p, li, table {
-      font-size: 105%;
+      font-size: 100%;
 }
 
 .container {
@@ -147,7 +147,7 @@ table td {
 }
 
 .container-footer p {
-      padding: 0rem 2.3rem;
+      padding: 0rem 2rem;
 }
 
 .container-footer p a {
